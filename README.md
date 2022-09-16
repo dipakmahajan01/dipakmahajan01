@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dipakmahajan01
 - 👀 I love programming
-- 🌱 I’m currently learning full stack web developement
+- 🌱 I’m mern stack developer
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
