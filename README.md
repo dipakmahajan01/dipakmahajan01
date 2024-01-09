@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dipak</h1>
 <h3 align="center">A passionate software developer from India</h3>
 
-- 🔭 I’m currently working on [Lotus](https://betmaverick777.net/)
+- 🔭 I’m currently working on [Lotus](https://maverick777.net/)
 
 - 🌱 I’m currently learning **React.js, nest.js , next.js**
 
